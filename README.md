@@ -1,2 +1,3 @@
 # spotify-frontend
-its a spotify clone using html &amp; css
+<br>
+its a spotify frontend using html &amp; css
